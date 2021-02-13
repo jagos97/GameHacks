@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - Ground
+  - Collectible
+  - Debuff
+  - Punch
+  - Enemy
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Death
+  - black Screen
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroung
+    uniqueID: 2154680797
+    locked: 0
+  - name: mid
+    uniqueID: 3826778179
+    locked: 0
+  - name: Foreground
+    uniqueID: 1528759311
+    locked: 0

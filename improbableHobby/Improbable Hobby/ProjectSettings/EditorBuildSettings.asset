@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 51e5faf1873796647af03ee76cc0885a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e41af53054d3f61419f5a46ce276c61c
+  - enabled: 1
+    path: Assets/Scenes/EMLevelSelect.unity
+    guid: e3d4375dfc7132e4e890563151aad43a
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: d3d25756231f73d4da07ecc8b6b24ce0
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: cc2566889d598cb41b32438b317c4f5a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: a7325c3ee04aa0545b848a343a41e785
+  - enabled: 1
+    path: Assets/Scenes/Extras.unity
+    guid: 1c47afb0b8e43294bb0ece1b8f3891cd
+  - enabled: 1
+    path: Assets/Scenes/SkinSelection.unity
+    guid: 1c94ecbf2dc488a489df313887f069be
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: d06e2c1feadf29c47ae014dfb32256f0
+  - enabled: 0
+    path: Assets/Scenes/HowToPlay.unity
+    guid: df070fd5aa0ca194d985fd4eec9399a1
+  - enabled: 0
+    path: Assets/Scenes/LoreMenu.unity
+    guid: 61e531a766aa90541822525fe5baecd8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
